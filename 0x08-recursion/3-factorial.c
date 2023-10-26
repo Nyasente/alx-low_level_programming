@@ -2,7 +2,8 @@
 /**
  * factorial - prints factorial of a number
  * @n: function parameter
- * Return: n
+ * Return: function n
+ * 
  */
 int factorial(int n)
 {
